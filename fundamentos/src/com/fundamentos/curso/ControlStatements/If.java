@@ -2,7 +2,7 @@ package com.fundamentos.curso.ControlStatements;
 
 public class If {
 
-    public static void String(String[] args) {
+    public static void main (String[] args) {
         // if
 
         int edad = 60;
