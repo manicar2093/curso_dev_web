@@ -38,3 +38,5 @@ Nuestra clase se llama Persona, por ende nuestro archivo se llamara Persona.java
     }
  ```
 Nota: considerar que los getter y setter deben ser públicos.
+
+5. Los constructores deben ir inmediatamente despues de los atributos y los métodos inmediatamente despues de los constructores. Los getter y setters van hasta el final.
