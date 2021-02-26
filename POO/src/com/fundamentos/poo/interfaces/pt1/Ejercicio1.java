@@ -1,4 +1,4 @@
-package com.fundamentos.poo.interfaces;
+package com.fundamentos.poo.interfaces.pt1;
 
 public class Ejercicio1 {
 
