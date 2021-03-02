@@ -14,6 +14,18 @@ public class Main {
         m.hablar();
         m.comer();
 
+        /*
+            Tambien se aplica el polimorfismo, solo que como diferencia este si podra llamar a la implementación de la clase Hija.
+         */
+        Humano h = new Mujer();
+        h.comer();
+        h.hablar();
+
+        /*
+            Igual que las interfaces, las clases abstractas no se pueden instanciar.
+            Humano h1 = new Humano(); // Esto da error
+         */
+
     }
 
 }
